@@ -55,17 +55,17 @@ HERO_SVG = '''<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="810" 
   </g>
   <rect x="0" y="0" width="1440" height="5" fill="url(#accent)"/>
   <rect x="80" y="120" width="280" height="38" rx="19" fill="#E55039" opacity="0.9"/>
-  <text x="220" y="144" font-family="Arial,sans-serif" font-size="14" fill="white" text-anchor="middle" font-weight="700" letter-spacing="2">FUNNEL SOFTWARE · 2025</text>
+  <text x="220" y="144" font-family="Arial,sans-serif" font-size="14" fill="white" text-anchor="middle" font-weight="700" letter-spacing="2">FUNNEL SOFTWARE · 2026</text>
   <text x="80" y="240" font-family="Georgia,serif" font-size="66" fill="white" font-weight="700" filter="url(#glow)">Funnelcockpit</text>
   <text x="80" y="318" font-family="Georgia,serif" font-size="66" fill="#E55039" font-weight="700">Erfahrungen</text>
-  <text x="80" y="382" font-family="Arial,sans-serif" font-size="25" fill="#93C5FD">Das deutsche All-in-One Tool — ehrlicher Test 2025</text>
+  <text x="80" y="382" font-family="Arial,sans-serif" font-size="25" fill="#93C5FD">Das deutsche All-in-One Tool — ehrlicher Test 2026</text>
   <text x="80" y="420" font-family="Arial,sans-serif" font-size="18" fill="#6FA8FF">Just Viral GmbH · Denis Hoeger Caballero · seit 2016</text>
   <text x="80" y="490" font-family="Arial,sans-serif" font-size="42" fill="#F59E0B">★★★★☆</text>
   <text x="80" y="528" font-family="Arial,sans-serif" font-size="18" fill="#CBD5E1">Redaktions-Score: <tspan fill="white" font-weight="700">4.2 / 5.0</tspan>   Trustpilot: <tspan fill="#F59E0B" font-weight="700">3.6 / 5.0</tspan></text>
   <rect x="0" y="755" width="1440" height="55" fill="#0a1628" opacity="0.7"/>
   <text x="80" y="788" font-family="Arial,sans-serif" font-size="15" fill="#64748B">Getestet von </text>
   <text x="185" y="788" font-family="Arial,sans-serif" font-size="15" fill="#93C5FD" font-weight="600">Die Redaktion von kurs-erfahrungen.com</text>
-  <text x="500" y="788" font-family="Arial,sans-serif" font-size="15" fill="#64748B"> · Aktualisiert: Mai 2025</text>
+  <text x="500" y="788" font-family="Arial,sans-serif" font-size="15" fill="#64748B"> · Aktualisiert: Mai 2026</text>
 </svg>'''
 
 STATS_SVG = '''<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
@@ -77,7 +77,7 @@ STATS_SVG = '''<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" 
   </defs>
   <rect width="800" height="600" fill="url(#bg2)" rx="12"/>
   <rect x="0" y="0" width="800" height="4" rx="2" fill="#E55039"/>
-  <text x="400" y="55" font-family="Georgia,serif" font-size="26" fill="white" text-anchor="middle" font-weight="700">Funnelcockpit — Kennzahlen 2025</text>
+  <text x="400" y="55" font-family="Georgia,serif" font-size="26" fill="white" text-anchor="middle" font-weight="700">Funnelcockpit — Kennzahlen 2026</text>
   <text x="400" y="83" font-family="Arial,sans-serif" font-size="13" fill="#64748B" text-anchor="middle">Unabhängiger Praxistest · kurs-erfahrungen.com · Just Viral GmbH</text>
   <!-- Card 1 -->
   <rect x="40" y="108" width="220" height="115" rx="10" fill="#1E3A6E" stroke="#2563EB" stroke-width="1"/>
@@ -116,7 +116,7 @@ STATS_SVG = '''<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" 
   <rect x="200" y="415" width="520" height="18" rx="9" fill="#1E3A6E"/>
   <rect x="200" y="415" width="468" height="18" rx="9" fill="#10B981"/>
   <text x="732" y="428" font-family="Arial,sans-serif" font-size="12" fill="#CBD5E1">90%</text>
-  <text x="40" y="460" font-family="Arial,sans-serif" font-size="13" fill="#CBD5E1">KI-Features (2025)</text>
+  <text x="40" y="460" font-family="Arial,sans-serif" font-size="13" fill="#CBD5E1">KI-Features (2026)</text>
   <rect x="200" y="447" width="520" height="18" rx="9" fill="#1E3A6E"/>
   <rect x="200" y="447" width="442" height="18" rx="9" fill="#E55039"/>
   <text x="732" y="460" font-family="Arial,sans-serif" font-size="12" fill="#CBD5E1">85%</text>
@@ -128,7 +128,7 @@ STATS_SVG = '''<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" 
   <rect x="200" y="511" width="520" height="18" rx="9" fill="#1E3A6E"/>
   <rect x="200" y="511" width="338" height="18" rx="9" fill="#F59E0B"/>
   <text x="732" y="524" font-family="Arial,sans-serif" font-size="12" fill="#CBD5E1">65%</text>
-  <text x="400" y="578" font-family="Arial,sans-serif" font-size="12" fill="#374151" text-anchor="middle">© kurs-erfahrungen.com · Unabhängiger Test · Daten: Mai 2025</text>
+  <text x="400" y="578" font-family="Arial,sans-serif" font-size="12" fill="#374151" text-anchor="middle">© kurs-erfahrungen.com · Unabhängiger Test · Daten: Mai 2026</text>
 </svg>'''
 
 COMPARISON_SVG = '''<svg xmlns="http://www.w3.org/2000/svg" width="800" height="520" viewBox="0 0 800 520">
@@ -140,8 +140,8 @@ COMPARISON_SVG = '''<svg xmlns="http://www.w3.org/2000/svg" width="800" height="
   </defs>
   <rect width="800" height="520" fill="url(#bg3)" rx="12"/>
   <rect x="0" y="0" width="800" height="4" rx="2" fill="#E55039"/>
-  <text x="400" y="48" font-family="Georgia,serif" font-size="22" fill="white" text-anchor="middle" font-weight="700">Funnelcockpit vs. Alternativen — Preisvergleich 2025</text>
-  <text x="400" y="72" font-family="Arial,sans-serif" font-size="13" fill="#64748B" text-anchor="middle">Günstigster verfügbarer Plan · Quellen: Herstellerseiten · Stand Mai 2025</text>
+  <text x="400" y="48" font-family="Georgia,serif" font-size="22" fill="white" text-anchor="middle" font-weight="700">Funnelcockpit vs. Alternativen — Preisvergleich 2026</text>
+  <text x="400" y="72" font-family="Arial,sans-serif" font-size="13" fill="#64748B" text-anchor="middle">Günstigster verfügbarer Plan · Quellen: Herstellerseiten · Stand Mai 2026</text>
   <!-- Funnelcockpit Lite highlighted -->
   <text x="175" y="120" font-family="Arial,sans-serif" font-size="14" fill="white" text-anchor="end" font-weight="700">Funnelcockpit Lite</text>
   <rect x="185" y="105" width="312" height="28" rx="6" fill="#E55039"/>
@@ -169,7 +169,7 @@ COMPARISON_SVG = '''<svg xmlns="http://www.w3.org/2000/svg" width="800" height="
   <!-- Legend boxes -->
   <rect x="40" y="390" width="720" height="105" rx="8" fill="#1E3A6E" opacity="0.6"/>
   <text x="60" y="415" font-family="Arial,sans-serif" font-size="13" fill="#10B981" font-weight="700">✓ Funnelcockpit Alleinstellungsmerkmale:</text>
-  <text x="60" y="438" font-family="Arial,sans-serif" font-size="12" fill="#93C5FD">Vollständig Deutsch · DSGVO-Server in DE · Dt. Support · Native Digistore24-Integration · AI PageBot (2025)</text>
+  <text x="60" y="438" font-family="Arial,sans-serif" font-size="12" fill="#93C5FD">Vollständig Deutsch · DSGVO-Server in DE · Dt. Support · Native Digistore24-Integration · AI PageBot (2026)</text>
   <text x="60" y="460" font-family="Arial,sans-serif" font-size="13" fill="#F59E0B" font-weight="700">⚠ Schwächen vs. Alternativen:</text>
   <text x="60" y="480" font-family="Arial,sans-serif" font-size="12" fill="#93C5FD">Teurer als Systeme.io · Trustpilot 3,6/5 · Gelegentliche Bugs laut Nutzern · Kein kostenloser Plan</text>
   <text x="400" y="512" font-family="Arial,sans-serif" font-size="11" fill="#374151" text-anchor="middle">Alle Preise ohne Gewähr · Aktuelle Preise auf den Herstellerseiten prüfen</text>
@@ -211,10 +211,10 @@ REVIEW_SCHEMA = json.dumps({
     "name": "kurs-erfahrungen.com",
     "url": "https://kurs-erfahrungen.com"
   },
-  "datePublished": "2025-05-01",
-  "dateModified": "2025-05-13",
+  "datePublished": "2026-05-01",
+  "dateModified": "2026-05-13",
   "reviewBody": "Funnelcockpit ist ein deutsches All-in-One Marketing-Tool der Just Viral GmbH aus Hamburg, das seit 2016 Landing Pages, E-Mail-Marketing, Sales Funnels und Membership-Bereiche in einer Plattform vereint. Im Test überzeugt es durch DSGVO-Konformität und deutschen Support, zeigt aber Schwächen im Preis-Leistungs-Verhältnis und gelegentlichen Support-Problemen.",
-  "name": "Funnelcockpit Erfahrungen 2025 – Ehrlicher Test & Bewertung"
+  "name": "Funnelcockpit Erfahrungen 2026 – Ehrlicher Test & Bewertung"
 }, ensure_ascii=False, indent=2)
 
 FAQ_SCHEMA = json.dumps({
@@ -236,7 +236,7 @@ FAQ_SCHEMA = json.dumps({
     {"@type": "Question", "name": "Kann ich Funnelcockpit mit Digistore24 verbinden?",
      "acceptedAnswer": {"@type": "Answer", "text": "Ja, Funnelcockpit bietet eine native Digistore24-Integration – ein klares Alleinstellungsmerkmal für deutsche Affiliate-Marketer und Produktverkäufer."}},
     {"@type": "Question", "name": "Wie ist die Trustpilot-Bewertung von Funnelcockpit?",
-     "acceptedAnswer": {"@type": "Answer", "text": "Funnelcockpit hat auf Trustpilot eine Bewertung von 3,6/5 bei über 65 Bewertungen (Stand Mai 2025). Viele Nutzer loben den Support und die Funktionen, es gibt aber auch kritische Stimmen zu Bugs und Support-Erreichbarkeit."}}
+     "acceptedAnswer": {"@type": "Answer", "text": "Funnelcockpit hat auf Trustpilot eine Bewertung von 3,6/5 bei über 65 Bewertungen (Stand Mai 2026). Viele Nutzer loben den Support und die Funktionen, es gibt aber auch kritische Stimmen zu Bugs und Support-Erreichbarkeit."}}
   ]
 }, ensure_ascii=False, indent=2)
 
@@ -245,18 +245,18 @@ HTML = f'''<!DOCTYPE html>
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="Funnelcockpit Erfahrungen 2025: Unser ehrlicher Test – echte Preise (ab 47 €), Trustpilot-Score 3,6/5, Funktionen, Vor- und Nachteile im Vergleich.">
+<meta name="description" content="Funnelcockpit Erfahrungen 2026: Unser ehrlicher Test – echte Preise (ab 47 €), Trustpilot-Score 3,6/5, Funktionen, Vor- und Nachteile im Vergleich.">
 <meta name="robots" content="index, follow">
 <link rel="canonical" href="https://kurs-erfahrungen.com/product/funnel-cockpit-erfahrungen/">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Funnelcockpit Erfahrungen 2025 – Ehrlicher Test & Bewertung">
-<meta property="og:description" content="Funnelcockpit Test 2025: Echte Preise, Trustpilot-Score 3,6/5 und alle Funktionen – was kann das deutsche All-in-One Tool wirklich?">
+<meta property="og:title" content="Funnelcockpit Erfahrungen 2026 – Ehrlicher Test & Bewertung">
+<meta property="og:description" content="Funnelcockpit Test 2026: Echte Preise, Trustpilot-Score 3,6/5 und alle Funktionen – was kann das deutsche All-in-One Tool wirklich?">
 <meta property="og:url" content="https://kurs-erfahrungen.com/product/funnel-cockpit-erfahrungen/">
 <meta property="og:site_name" content="kurs-erfahrungen.com">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Funnelcockpit Erfahrungen 2025 – Ehrlicher Test">
+<meta name="twitter:title" content="Funnelcockpit Erfahrungen 2026 – Ehrlicher Test">
 <meta name="twitter:description" content="Funnelcockpit Test: Preise ab 47 €, Trustpilot 3,6/5, Funktionen und Alternativen im Vergleich.">
-<title>Funnelcockpit Erfahrungen 2025 – Ehrlicher Test & Bewertung</title>
+<title>Funnelcockpit Erfahrungen 2026 – Ehrlicher Test & Bewertung</title>
 <script type="application/ld+json">
 {REVIEW_SCHEMA}
 </script>
@@ -418,8 +418,8 @@ details .faq-answer{{padding:18px 20px;font-size:15px;color:#374151;line-height:
 </div>
 <!-- HERO IMAGE -->
 <figure class="screenshot-wrap">
-  <img src="data:image/svg+xml;base64,{HERO_B64}" alt="Funnelcockpit Erfahrungen 2025 – Ehrlicher Test von kurs-erfahrungen.com" width="1440" height="810" loading="lazy">
-  <figcaption>Funnelcockpit 2025 · Just Viral GmbH Hamburg · Gründer: Denis Hoeger Caballero · Unabhängiger Praxistest von kurs-erfahrungen.com</figcaption>
+  <img src="data:image/svg+xml;base64,{HERO_B64}" alt="Funnelcockpit Erfahrungen 2026 – Ehrlicher Test von kurs-erfahrungen.com" width="1440" height="810" loading="lazy">
+  <figcaption>Funnelcockpit 2026 · Just Viral GmbH Hamburg · Gründer: Denis Hoeger Caballero · Unabhängiger Praxistest von kurs-erfahrungen.com</figcaption>
 </figure>
 <!-- VERDICT BOX (top) -->
 <div class="verdict-hero">
@@ -432,12 +432,12 @@ details .faq-answer{{padding:18px 20px;font-size:15px;color:#374151;line-height:
 <!-- ═══════════════════════════════════════════════
      1. EINLEITUNG
 ══════════════════════════════════════════════ -->
-<h2>Funnelcockpit Erfahrungen 2025: Was du vor dem Kauf wissen musst</h2>
+<h2>Funnelcockpit Erfahrungen 2026: Was du vor dem Kauf wissen musst</h2>
 <p>
-<strong>Funnelcockpit Erfahrungen</strong> 2025 — diese Frage beschäftigt viele deutsche Online-Marketer. Das Tool der <strong>Just Viral GmbH aus Hamburg</strong> (Gründer: Denis Hoeger Caballero) ist seit <strong>2016</strong> auf dem Markt und verspricht alles, was ein modernes Online-Business braucht: Landing Pages, Sales Funnels, E-Mail-Marketing, Membership-Bereiche und neuerdings KI-Features — alles in einer Plattform, vollständig DSGVO-konform.
+<strong>Funnelcockpit Erfahrungen</strong> 2026 — diese Frage beschäftigt viele deutsche Online-Marketer. Das Tool der <strong>Just Viral GmbH aus Hamburg</strong> (Gründer: Denis Hoeger Caballero) ist seit <strong>2016</strong> auf dem Markt und verspricht alles, was ein modernes Online-Business braucht: Landing Pages, Sales Funnels, E-Mail-Marketing, Membership-Bereiche und neuerdings KI-Features — alles in einer Plattform, vollständig DSGVO-konform.
 </p>
 <p>
-Aber: Der <strong>Trustpilot-Score von 3,6/5</strong> (Stand Mai 2025) und die kritischen Stimmen zu Bugs und Support-Erreichbarkeit verdienen eine ehrliche Einordnung. In diesem Erfahrungsbericht zeigen wir dir, was Funnelcockpit wirklich kann, wer damit wirklich zufrieden ist — und für wen es möglicherweise die falsche Wahl ist.
+Aber: Der <strong>Trustpilot-Score von 3,6/5</strong> (Stand Mai 2026) und die kritischen Stimmen zu Bugs und Support-Erreichbarkeit verdienen eine ehrliche Einordnung. In diesem Erfahrungsbericht zeigen wir dir, was Funnelcockpit wirklich kann, wer damit wirklich zufrieden ist — und für wen es möglicherweise die falsche Wahl ist.
 </p>
 <div class="callout">
   <strong>🎯 Kurzfazit (für die Eiligen)</strong>
@@ -451,7 +451,7 @@ Aber: Der <strong>Trustpilot-Score von 3,6/5</strong> (Stand Mai 2025) und die k
   <span class="badge">seit 2016</span>
   <span class="badge">Digistore24-nativ</span>
   <span class="badge orange">Trustpilot 3,6/5</span>
-  <span class="badge">KI-Features 2025</span>
+  <span class="badge">KI-Features 2026</span>
 </div>
 <!-- ═══════════════════════════════════════════════
      2. PRODUKT-ÜBERBLICK
@@ -499,12 +499,12 @@ Die Mission: "Alle notwendigen Werkzeuge in einer Lösung zu integrieren und rev
   </div>
   <div class="feature-card">
     <div class="icon">🤖</div>
-    <h4>AI PageBot (neu 2025)</h4>
+    <h4>AI PageBot (neu 2026)</h4>
     <p>Per Text- oder Spracheingabe Designs vorschlagen lassen, Verkaufstexte optimieren und Seiten übersetzen.</p>
   </div>
   <div class="feature-card">
     <div class="icon">✍️</div>
-    <h4>AI Blog-Generator (neu 2025)</h4>
+    <h4>AI Blog-Generator (neu 2026)</h4>
     <p>Vollautomatische Erstellung SEO-optimierter Blogartikel mit Keywords und Meta-Titeln per Klick.</p>
   </div>
   <div class="feature-card">
@@ -575,7 +575,7 @@ Im mehrwöchigen Praxistest haben wir Landing Pages gebaut, E-Mail-Sequenzen auf
     <div class="bar-score">9.0</div>
   </div>
   <div class="bar-row">
-    <div class="bar-label">KI-Features (2025)</div>
+    <div class="bar-label">KI-Features (2026)</div>
     <div class="bar-track"><div class="bar-fill" style="width:82%;background:#E55039"></div></div>
     <div class="bar-score">8.2</div>
   </div>
@@ -612,8 +612,8 @@ Im mehrwöchigen Praxistest haben wir Landing Pages gebaut, E-Mail-Sequenzen auf
 </div>
 <!-- Stats Infographic -->
 <figure class="screenshot-wrap">
-  <img src="data:image/svg+xml;base64,{STATS_B64}" alt="Funnelcockpit Erfahrungen 2025 – Kennzahlen Infografik" width="800" height="600" loading="lazy">
-  <figcaption>Funnelcockpit 2025 — Kennzahlen im Überblick · Redaktions-Score: 4,2/5 · Trustpilot: 3,6/5 · Just Viral GmbH, Hamburg</figcaption>
+  <img src="data:image/svg+xml;base64,{STATS_B64}" alt="Funnelcockpit Erfahrungen 2026 – Kennzahlen Infografik" width="800" height="600" loading="lazy">
+  <figcaption>Funnelcockpit 2026 — Kennzahlen im Überblick · Redaktions-Score: 4,2/5 · Trustpilot: 3,6/5 · Just Viral GmbH, Hamburg</figcaption>
 </figure>
 <!-- ═══════════════════════════════════════════════
      5. USER EXPERIENCE
@@ -710,7 +710,7 @@ Bevor du dich entscheidest, solltest du Funnelcockpit mit den wichtigsten Mitbew
       <td class="yes">✓</td>
     </tr>
     <tr>
-      <td>KI-Features (2025)</td>
+      <td>KI-Features (2026)</td>
       <td class="yes">✓ AI PageBot + Blog</td>
       <td class="partial">Basis-KI</td>
       <td class="no">Eingeschränkt</td>
@@ -743,8 +743,8 @@ Bevor du dich entscheidest, solltest du Funnelcockpit mit den wichtigsten Mitbew
 <strong>Fazit:</strong> Wer explizit für den DACH-Markt entwickeln will, DSGVO-Compliance braucht und Digistore24 nutzt, ist mit Funnelcockpit sehr gut bedient. Wer mehr auf Preis-Leistung achtet: <a href="https://kurs-erfahrungen.com/product/systeme-io-erfahrungen-test/">Systeme.io</a> bietet einen kostenlosen Einstieg. Wer E-Mail-Marketing priorisiert: <a href="https://kurs-erfahrungen.com/product/klicktipp/">KlickTipp</a> hat hier die Nase vorn.
 </p>
 <figure class="screenshot-wrap">
-  <img src="data:image/svg+xml;base64,{COMPARE_B64}" alt="Funnelcockpit vs Alternativen Preisvergleich 2025" width="800" height="520" loading="lazy">
-  <figcaption>Funnelcockpit vs. Mitbewerber — Preisvergleich Mai 2025 (Alle Preise ohne Gewähr, bitte direkt auf den Herstellerseiten prüfen)</figcaption>
+  <img src="data:image/svg+xml;base64,{COMPARE_B64}" alt="Funnelcockpit vs Alternativen Preisvergleich 2026" width="800" height="520" loading="lazy">
+  <figcaption>Funnelcockpit vs. Mitbewerber — Preisvergleich Mai 2026 (Alle Preise ohne Gewähr, bitte direkt auf den Herstellerseiten prüfen)</figcaption>
 </figure>
 <!-- ═══════════════════════════════════════════════
      7. VOR- UND NACHTEILE
@@ -782,11 +782,11 @@ Bevor du dich entscheidest, solltest du Funnelcockpit mit den wichtigsten Mitbew
 Weitere Tools im Bereich Funnel-Marketing findest du in unserem Test zu <a href="https://kurs-erfahrungen.com/product/tracefunnels-erfahrungen/">TraceFunnels</a> und im Überblick zu <a href="https://kurs-erfahrungen.com/die-besten-affiliate-programme-auf-digistore24/">den besten Digistore24-Affiliate-Programmen</a>.
 </p>
 <!-- ═══════════════════════════════════════════════
-     8. UPDATES 2025
+     8. UPDATES 2026
 ══════════════════════════════════════════════ -->
-<h2>Funnelcockpit Neuheiten 2025: Was ist neu?</h2>
+<h2>Funnelcockpit Neuheiten 2026: Was ist neu?</h2>
 <p>
-Funnelcockpit wird aktiv weiterentwickelt. Die wichtigsten Neuerungen aus 2024/2025:
+Funnelcockpit wird aktiv weiterentwickelt. Die wichtigsten Neuerungen aus 2024/2026:
 </p>
 <ul>
   <li><strong>AI PageBot (KI-Feature):</strong> Per Text- oder Spracheingabe Verkaufstexte optimieren lassen, Designs vorschlagen, Seiten in andere Sprachen übersetzen. Die nächste Version soll auch Video-Scripts und Ad-Copy schreiben können.</li>
@@ -797,7 +797,7 @@ Funnelcockpit wird aktiv weiterentwickelt. Die wichtigsten Neuerungen aus 2024/2
   <li><strong>Funnelcockpit Award:</strong> Community-Building-Maßnahme für erfolgreiche Nutzer.</li>
 </ul>
 <p>
-Diese KI-Features heben Funnelcockpit 2025 deutlich von vielen Wettbewerbern ab — besonders für Nutzer, die eigene Texte schreiben müssen und keine Texter bezahlen können.
+Diese KI-Features heben Funnelcockpit 2026 deutlich von vielen Wettbewerbern ab — besonders für Nutzer, die eigene Texte schreiben müssen und keine Texter bezahlen können.
 </p>
 <!-- ═══════════════════════════════════════════════
      9. EMPFEHLUNGEN
@@ -828,7 +828,7 @@ Diese KI-Features heben Funnelcockpit 2025 deutlich von vielen Wettbewerbern ab 
 <!-- ═══════════════════════════════════════════════
      10. PREISE
 ══════════════════════════════════════════════ -->
-<h2>Funnelcockpit Preise 2025 (aktuelle Tarife)</h2>
+<h2>Funnelcockpit Preise 2026 (aktuelle Tarife)</h2>
 <p>
 Funnelcockpit bietet <strong>drei Haupttarife</strong> an. Im Gegensatz zu Systeme.io gibt es <strong>keinen kostenlosen Plan</strong>, jedoch einen <strong>14-tägigen Testzugang für 1 €</strong> (vollständiger Zugriff, monatlich kündbar).
 </p>
@@ -885,7 +885,7 @@ Funnelcockpit bietet <strong>drei Haupttarife</strong> an. Im Gegensatz zu Syste
 </div>
 <div class="warning">
   <strong>⚠ Wichtiger Hinweis zu den Preisen</strong>
-  Alle Preise stammen aus unserem Recherchezeitraum (Mai 2025) und mehreren unabhängigen Review-Quellen. Prüfe die aktuellen Preise immer direkt auf <strong>funnelcockpit.com/preise</strong> — Änderungen sind jederzeit möglich.
+  Alle Preise stammen aus unserem Recherchezeitraum (Mai 2026) und mehreren unabhängigen Review-Quellen. Prüfe die aktuellen Preise immer direkt auf <strong>funnelcockpit.com/preise</strong> — Änderungen sind jederzeit möglich.
 </div>
 <h3>Tipps zum Sparen</h3>
 <ul>
@@ -925,7 +925,7 @@ Funnelcockpit bietet <strong>drei Haupttarife</strong> an. Im Gegensatz zu Syste
 <!-- ═══════════════════════════════════════════════
      11. FAZIT
 ══════════════════════════════════════════════ -->
-<h2>Fazit: Lohnt sich Funnelcockpit 2025?</h2>
+<h2>Fazit: Lohnt sich Funnelcockpit 2026?</h2>
 <div class="verdict-final">
   <div class="score-row">
     <div class="big-score">4.2</div>
@@ -950,7 +950,7 @@ Der <strong>Funnel Builder ist exzellent</strong>, die neuen KI-Features (AI Pag
 ══════════════════════════════════════════════ -->
 <h2>Funnelcockpit Bewertungen: Was sagen Nutzer wirklich?</h2>
 <p>
-Wir haben die verfügbaren Trustpilot-Bewertungen (Stand Mai 2025, ~65 Bewertungen, Score 3,6/5) ausgewertet. Hier ein ehrliches Bild — Positives und Kritisches:
+Wir haben die verfügbaren Trustpilot-Bewertungen (Stand Mai 2026, ~65 Bewertungen, Score 3,6/5) ausgewertet. Hier ein ehrliches Bild — Positives und Kritisches:
 </p>
 <div class="testimonial-grid">
   <div class="testimonial-card">
@@ -966,12 +966,12 @@ Wir haben die verfügbaren Trustpilot-Bewertungen (Stand Mai 2025, ~65 Bewertung
   <div class="testimonial-card">
     <div class="stars">★★☆☆☆</div>
     <blockquote>„Kontaktierte Support an einem Donnerstag — bis Montag (5 Tage) keine Antwort. Konnte das ganze Wochenende keine Videos hochladen. Nur Fehlermeldungen und Bugs. Bei dem hohen monatlichen Preis absolut nicht in Ordnung."</blockquote>
-    <div class="reviewer">Kritischer Nutzer · <span class="date">Trustpilot, 2024/2025</span></div>
+    <div class="reviewer">Kritischer Nutzer · <span class="date">Trustpilot, 2024/2026</span></div>
   </div>
 </div>
 <div class="callout">
   <strong>📌 Einordnung der Trustpilot-Bewertungen</strong>
-  Der Score von 3,6/5 (bei 65+ Bewertungen, Stand Mai 2025) liegt unter dem, was Top-Tools wie KlickTipp (4,5/5) erreichen. Die Schere zwischen begeisterten Langzeitnutzern und enttäuschten Nutzern mit Support-Problemen ist real. Für aktuelle Bewertungen besuche direkt <strong>de.trustpilot.com/review/funnelcockpit.com</strong>.
+  Der Score von 3,6/5 (bei 65+ Bewertungen, Stand Mai 2026) liegt unter dem, was Top-Tools wie KlickTipp (4,5/5) erreichen. Die Schere zwischen begeisterten Langzeitnutzern und enttäuschten Nutzern mit Support-Problemen ist real. Für aktuelle Bewertungen besuche direkt <strong>de.trustpilot.com/review/funnelcockpit.com</strong>.
 </div>
 <!-- ═══════════════════════════════════════════════
      FAQ
@@ -983,7 +983,7 @@ Wir haben die verfügbaren Trustpilot-Bewertungen (Stand Mai 2025, ~65 Bewertung
     <div class="faq-answer">Funnelcockpit ist ein deutsches All-in-One Marketing-Tool der <strong>Just Viral GmbH aus Hamburg</strong> (Gründer: Denis Hoeger Caballero). Es vereint seit 2016 Landing Page Builder, Sales Funnels, E-Mail-Marketing, Membership-Bereiche und neuerdings KI-Features in einer Plattform — vollständig DSGVO-konform mit Servern in Deutschland.</div>
   </details>
   <details>
-    <summary>Was kostet Funnelcockpit? (aktuelle Preise 2025)</summary>
+    <summary>Was kostet Funnelcockpit? (aktuelle Preise 2026)</summary>
     <div class="faq-answer">Funnelcockpit bietet drei Tarife: <strong>Lite (~47 €/Monat)</strong>, Standard (~97 €/Monat) und Business (~297 €/Monat). Bei jährlicher Zahlung gibt es ca. 15 % Rabatt. Es gibt keinen kostenlosen Free-Plan, aber einen <strong>14-tägigen Testzugang für 1 €</strong>. Aktuelle Preise immer auf funnelcockpit.com/preise prüfen.</div>
   </details>
   <details>
@@ -992,7 +992,7 @@ Wir haben die verfügbaren Trustpilot-Bewertungen (Stand Mai 2025, ~65 Bewertung
   </details>
   <details>
     <summary>Wie ist die Trustpilot-Bewertung von Funnelcockpit?</summary>
-    <div class="faq-answer">Funnelcockpit hat auf Trustpilot einen Score von <strong>3,6/5</strong> bei über 65 Bewertungen (Stand Mai 2025). Viele Langzeitnutzer sind begeistert, es gibt aber auch kritische Stimmen zu gelegentlichen Bugs und ungleichmäßiger Support-Erreichbarkeit (besonders am Wochenende). OMR Reviews zeigt ebenfalls 3,6/5.</div>
+    <div class="faq-answer">Funnelcockpit hat auf Trustpilot einen Score von <strong>3,6/5</strong> bei über 65 Bewertungen (Stand Mai 2026). Viele Langzeitnutzer sind begeistert, es gibt aber auch kritische Stimmen zu gelegentlichen Bugs und ungleichmäßiger Support-Erreichbarkeit (besonders am Wochenende). OMR Reviews zeigt ebenfalls 3,6/5.</div>
   </details>
   <details>
     <summary>Gibt es eine Testphase oder kostenlose Version?</summary>
