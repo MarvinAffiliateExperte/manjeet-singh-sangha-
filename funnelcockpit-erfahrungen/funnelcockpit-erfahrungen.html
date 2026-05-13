@@ -236,6 +236,9 @@ details .faq-answer{padding:18px 20px;font-size:15px;color:#374151;line-height:1
 .calc-result .rec-plan{font-size:26px;font-weight:800;color:var(--coral);margin-bottom:6px}
 .calc-result .rec-price{font-size:18px;color:var(--dark2);margin-bottom:10px}
 .calc-result p{font-size:14px;color:var(--gray);margin:0}
+.toggle-group{display:flex;gap:8px;flex:1}
+.toggle-btn{padding:9px 24px;border-radius:22px;border:2px solid var(--border);background:white;font-size:14px;font-weight:600;cursor:pointer;color:var(--gray);transition:all .18s}
+.toggle-btn.active{background:var(--coral);border-color:var(--coral);color:white}
 .verdict-final{background:var(--dark);color:white;border-radius:14px;padding:32px;margin:36px 0;border-left:5px solid var(--coral)}
 .verdict-final .score-row{display:flex;align-items:center;gap:24px;margin-bottom:16px;flex-wrap:wrap}
 .verdict-final .big-score{font-size:60px;font-weight:800;color:var(--coral);line-height:1}
@@ -280,7 +283,14 @@ details .faq-answer{padding:18px 20px;font-size:15px;color:#374151;line-height:1
 <div class="wrap">
 <!-- AUTHOR BOX -->
 <div class="author-box">
-  <div class="author-avatar">KE</div>
+  <div class="author-avatar">
+    <img src="https://kurs-erfahrungen.com/wp-content/uploads/2026/01/marvin.jpeg"
+         alt="Die Redaktion von kurs-erfahrungen.com"
+         width="80" height="80"
+         style="width:100%;height:100%;object-fit:cover;border-radius:50%"
+         onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">
+    <span style="display:none;width:100%;height:100%;align-items:center;justify-content:center;font-size:28px;font-weight:700">KE</span>
+  </div>
   <div class="author-info">
     <h3>Die Redaktion von kurs-erfahrungen.com</h3>
     <p class="credentials">Unabhängige Online-Marketing-Redaktion · Mehwöchiger Praxistest · Quellen: Trustpilot, OMR Reviews, eigene Tests</p>
@@ -779,13 +789,17 @@ Funnelcockpit bietet <strong>drei Haupttarife</strong> an. Im Gegensatz zu Syste
   </div>
   <div class="calc-row">
     <label>Brauche ich A/B-Tests?<br><small style="font-weight:400;color:#64748B">Split-Tests sind nur ab Standard verfügbar</small></label>
-    <input type="range" id="needsAB" min="0" max="1" value="0" oninput="calcUpdate()">
-    <div class="val" id="abVal">Nein</div>
+    <div class="toggle-group">
+      <button class="toggle-btn active" id="abNein" onclick="setToggle('ab',0)">Nein</button>
+      <button class="toggle-btn" id="abJa" onclick="setToggle('ab',1)">Ja</button>
+    </div>
   </div>
   <div class="calc-row">
     <label>Benötige ich automatisierte Webinare?<br><small style="font-weight:400;color:#64748B">Webinar-Tool nur im Business-Plan</small></label>
-    <input type="range" id="needsWebinar" min="0" max="1" value="0" oninput="calcUpdate()">
-    <div class="val" id="webinarVal">Nein</div>
+    <div class="toggle-group">
+      <button class="toggle-btn active" id="webNein" onclick="setToggle('web',0)">Nein</button>
+      <button class="toggle-btn" id="webJa" onclick="setToggle('web',1)">Ja</button>
+    </div>
   </div>
   <div class="calc-result" id="calcResult">
     <div class="rec-plan" id="recPlan">Lite-Plan</div>
@@ -897,18 +911,27 @@ Wir haben die verfügbaren Trustpilot-Bewertungen (Stand Mai 2026, ~65 Bewertung
 </p>
 </div>
 <script>
+var _ab = 0, _web = 0;
+function setToggle(type, val) {
+  if (type === 'ab') {
+    _ab = val;
+    document.getElementById('abNein').classList.toggle('active', val === 0);
+    document.getElementById('abJa').classList.toggle('active', val === 1);
+  } else {
+    _web = val;
+    document.getElementById('webNein').classList.toggle('active', val === 0);
+    document.getElementById('webJa').classList.toggle('active', val === 1);
+  }
+  calcUpdate();
+}
 function calcUpdate() {
   var funnels = parseInt(document.getElementById('funnelCount').value);
-  var needsAB = parseInt(document.getElementById('needsAB').value);
-  var needsWebinar = parseInt(document.getElementById('needsWebinar').value);
   document.getElementById('funnelVal').textContent = funnels;
-  document.getElementById('abVal').textContent = needsAB ? 'Ja' : 'Nein';
-  document.getElementById('webinarVal').textContent = needsWebinar ? 'Ja' : 'Nein';
   var plan, price, note;
-  if (needsWebinar) {
+  if (_web === 1) {
     plan = 'Business-Plan'; price = '297 €/Monat (oder ~252 € jährlich)';
     note = 'Nur der Business-Plan enthält das Webinar-Tool sowie Team-Funktion und unlimitierte Membership-Bereiche.';
-  } else if (needsAB || funnels > 5) {
+  } else if (_ab === 1 || funnels > 5) {
     plan = 'Standard-Plan'; price = '97 €/Monat (oder ~82 € jährlich)';
     note = 'A/B-Tests und mehr als 1 Membership-Bereich sind nur ab Standard verfügbar. Für wachsende Businesses empfohlen.';
   } else {
