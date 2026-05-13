@@ -112,11 +112,6 @@
               "name": "Lite-Plan",
               "price": "47",
               "priceCurrency": "EUR",
-              "priceSpecification": {
-                "@type": "UnitPriceSpecification",
-                "billingIncrement": 1,
-                "unitCode": "MON"
-              },
               "url": "https://kurs-erfahrungen.com/go/funnel-cockpit/"
             },
             {
@@ -124,11 +119,6 @@
               "name": "Standard-Plan",
               "price": "97",
               "priceCurrency": "EUR",
-              "priceSpecification": {
-                "@type": "UnitPriceSpecification",
-                "billingIncrement": 1,
-                "unitCode": "MON"
-              },
               "url": "https://kurs-erfahrungen.com/go/funnel-cockpit/"
             },
             {
@@ -136,11 +126,6 @@
               "name": "Business-Plan",
               "price": "297",
               "priceCurrency": "EUR",
-              "priceSpecification": {
-                "@type": "UnitPriceSpecification",
-                "billingIncrement": 1,
-                "unitCode": "MON"
-              },
               "url": "https://kurs-erfahrungen.com/go/funnel-cockpit/"
             }
           ]
