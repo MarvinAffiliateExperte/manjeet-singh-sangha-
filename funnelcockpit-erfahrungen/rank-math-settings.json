@@ -1,0 +1,275 @@
+{
+  "_info": {
+    "title": "Rank Math Pro — Einstellungen für Funnelcockpit Erfahrungen 2025",
+    "created": "2025-05-13",
+    "article_url": "https://kurs-erfahrungen.com/product/funnel-cockpit-erfahrungen/",
+    "how_to_use": [
+      "1. WordPress-Seite öffnen und den Artikel im Editor bearbeiten",
+      "2. Rank Math-Metabox unten im Editor öffnen",
+      "3. Die Felder aus dem Abschnitt 'rank_math_meta' eintragen",
+      "4. Rank Math → Schema → Custom Schema → Inhalt aus 'schema_review' einfügen",
+      "5. Zweite Custom Schema für FAQPage aus 'schema_faqpage' einfügen",
+      "6. Speichern und mit Rich Results Test überprüfen: https://search.google.com/test/rich-results"
+    ]
+  },
+
+  "rank_math_meta": {
+    "focus_keyword": "Funnelcockpit Erfahrungen",
+    "secondary_keywords": [
+      "Funnelcockpit Test",
+      "Funnelcockpit Preise",
+      "Funnelcockpit Bewertung",
+      "Funnelcockpit 2025",
+      "Funnel Software Deutschland"
+    ],
+    "seo_title": "Funnelcockpit Erfahrungen 2025 – Ehrlicher Test & Bewertung",
+    "seo_title_note": "Zeichenanzahl: 63 — ideal (50–60 optimal, max. 70)",
+    "meta_description": "Funnelcockpit Erfahrungen 2025: Echte Preise ab 47 €/Monat, Trustpilot-Score 3,6/5 und alle Funktionen im ehrlichen Test. Lohnt sich das deutsche All-in-One Tool?",
+    "meta_description_note": "Zeichenanzahl: 161 — ideal (150–160 optimal)",
+    "canonical_url": "https://kurs-erfahrungen.com/product/funnel-cockpit-erfahrungen/",
+    "article_type": "Review",
+    "robots": {
+      "index": true,
+      "follow": true,
+      "max_snippet": -1,
+      "max_image_preview": "large",
+      "max_video_preview": -1
+    },
+    "open_graph": {
+      "og_title": "Funnelcockpit Erfahrungen 2025 – Ehrlicher Test & Bewertung",
+      "og_description": "Funnelcockpit Test 2025: Echte Preise, Trustpilot 3,6/5 und alle Funktionen — was kann das deutsche All-in-One Marketing-Tool wirklich?",
+      "og_type": "article",
+      "og_image_alt": "Funnelcockpit Erfahrungen 2025 – Test von kurs-erfahrungen.com"
+    },
+    "twitter_card": {
+      "card_type": "summary_large_image",
+      "title": "Funnelcockpit Erfahrungen 2025 – Ehrlicher Test",
+      "description": "Preise ab 47 €/Monat, Trustpilot 3,6/5 – ehrlicher Test des deutschen All-in-One Marketing-Tools."
+    }
+  },
+
+  "schema_review": {
+    "_paste_into": "Rank Math → Schema → Custom Schema (Typ: Bewertung / Review)",
+    "_format": "JSON-LD — komplett in das Custom-Schema-Feld einfügen",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "name": "Funnelcockpit Erfahrungen 2025 – Ehrlicher Test & Bewertung",
+      "url": "https://kurs-erfahrungen.com/product/funnel-cockpit-erfahrungen/",
+      "datePublished": "2025-05-01",
+      "dateModified": "2025-05-13",
+      "reviewBody": "Funnelcockpit ist ein deutsches All-in-One Marketing-Tool der Just Viral GmbH aus Hamburg (Gründer: Denis Hoeger Caballero, seit 2016). Im ausführlichen Praxistest überzeugt es durch DSGVO-konformen Serverstandort Deutschland, nativer Digistore24-Integration und neue KI-Features (AI PageBot, Blog-Generator). Der Trustpilot-Score von 3,6/5 spiegelt eine gemischte Nutzererfahrung wider — starke Langzeitnutzer stehen gelegentlichen Support-Problemen gegenüber. Preise: Lite ab 47 €/Monat, Standard 97 €/Monat, Business 297 €/Monat. 14-Tage-Test für 1 € verfügbar.",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "4.2",
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "author": {
+        "@type": "Organization",
+        "name": "Die Redaktion von kurs-erfahrungen.com",
+        "url": "https://kurs-erfahrungen.com/ueber-den-autor/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "kurs-erfahrungen.com",
+        "url": "https://kurs-erfahrungen.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://kurs-erfahrungen.com/wp-content/uploads/logo.png"
+        }
+      },
+      "itemReviewed": {
+        "@type": "SoftwareApplication",
+        "name": "Funnelcockpit",
+        "url": "https://funnelcockpit.com",
+        "applicationCategory": "BusinessApplication",
+        "operatingSystem": "Web",
+        "description": "Deutsches All-in-One Marketing-Tool für Landing Pages, Sales Funnels, E-Mail-Marketing und Membership-Bereiche. DSGVO-konform, Server in Deutschland.",
+        "softwareVersion": "2025",
+        "creator": {
+          "@type": "Organization",
+          "name": "Just Viral GmbH & Co. KG",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Hamburg",
+            "addressCountry": "DE"
+          },
+          "founder": {
+            "@type": "Person",
+            "name": "Denis Hoeger Caballero"
+          }
+        },
+        "offers": {
+          "@type": "AggregateOffer",
+          "lowPrice": "47",
+          "highPrice": "297",
+          "priceCurrency": "EUR",
+          "offerCount": "3",
+          "offers": [
+            {
+              "@type": "Offer",
+              "name": "Lite-Plan",
+              "price": "47",
+              "priceCurrency": "EUR",
+              "priceSpecification": {
+                "@type": "UnitPriceSpecification",
+                "billingIncrement": 1,
+                "unitCode": "MON"
+              },
+              "url": "https://kurs-erfahrungen.com/go/funnel-cockpit/"
+            },
+            {
+              "@type": "Offer",
+              "name": "Standard-Plan",
+              "price": "97",
+              "priceCurrency": "EUR",
+              "priceSpecification": {
+                "@type": "UnitPriceSpecification",
+                "billingIncrement": 1,
+                "unitCode": "MON"
+              },
+              "url": "https://kurs-erfahrungen.com/go/funnel-cockpit/"
+            },
+            {
+              "@type": "Offer",
+              "name": "Business-Plan",
+              "price": "297",
+              "priceCurrency": "EUR",
+              "priceSpecification": {
+                "@type": "UnitPriceSpecification",
+                "billingIncrement": 1,
+                "unitCode": "MON"
+              },
+              "url": "https://kurs-erfahrungen.com/go/funnel-cockpit/"
+            }
+          ]
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "3.6",
+          "reviewCount": "65",
+          "bestRating": "5",
+          "worstRating": "1",
+          "description": "Trustpilot-Bewertung, Stand Mai 2025"
+        }
+      }
+    }
+  },
+
+  "schema_faqpage": {
+    "_paste_into": "Rank Math → Schema → Custom Schema (zweites Schema, Typ: FAQPage)",
+    "_note": "Rank Math Pro unterstützt mehrere Schemas pro Seite. FAQ-Schema separat hinzufügen.",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Was ist Funnelcockpit?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Funnelcockpit ist ein deutsches All-in-One Marketing-Tool der Just Viral GmbH aus Hamburg (Gründer: Denis Hoeger Caballero). Es vereint seit 2016 Landing Page Builder, Sales Funnels, E-Mail-Marketing, Membership-Bereiche und KI-Features in einer Plattform — vollständig DSGVO-konform mit Servern in Deutschland."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was kostet Funnelcockpit? (aktuelle Preise 2025)",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Funnelcockpit bietet drei Tarife: Lite (~47 €/Monat), Standard (~97 €/Monat) und Business (~297 €/Monat). Bei jährlicher Zahlung gibt es ca. 15 % Rabatt. Es gibt keinen kostenlosen Free-Plan, aber einen 14-tägigen Testzugang für 1 €. Aktuelle Preise immer auf funnelcockpit.com/preise prüfen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ist Funnelcockpit DSGVO-konform?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, Funnelcockpit ist vollständig DSGVO-konform. Die Server stehen in Deutschland, das Tool wurde explizit für den deutschen Markt entwickelt und bietet alle nötigen DSGVO-Funktionen. Dies ist ein klares Alleinstellungsmerkmal gegenüber US-Tools wie ClickFunnels."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie ist die Trustpilot-Bewertung von Funnelcockpit?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Funnelcockpit hat auf Trustpilot einen Score von 3,6/5 bei über 65 Bewertungen (Stand Mai 2025). Viele Langzeitnutzer sind begeistert, es gibt aber auch kritische Stimmen zu gelegentlichen Bugs und ungleichmäßiger Support-Erreichbarkeit, besonders am Wochenende."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gibt es eine Testphase oder kostenlose Version?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Funnelcockpit bietet keinen dauerhaft kostenlosen Free-Plan. Es gibt jedoch einen 14-tägigen vollständigen Testzugang für 1 € — monatlich kündbar. Das ist die empfohlene Variante, um das Tool vor einem längeren Abo zu testen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Welche Alternativen gibt es zu Funnelcockpit?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Die wichtigsten Alternativen: Systeme.io (kostenloser Plan, günstiger), KlickTipp (deutsches E-Mail-Marketing, ab 27 €/Monat), Quentn (deutsches CRM), GetResponse (international, ab 13 €/Monat), ClickFunnels (US-Tool, ab 97 $/Monat)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kann ich Funnelcockpit mit Digistore24 verbinden?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, Funnelcockpit bietet eine native Digistore24-Integration — keine Webhook-Konfiguration nötig. Das ist ein echtes Alleinstellungsmerkmal für deutsche Affiliate-Marketer und Produktverkäufer auf Digistore24."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was passiert mit meinen Daten, wenn ich Funnelcockpit kündige?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nach Kündigung verlierst du den Zugang zu deinen Inhalten auf der Plattform. Wir empfehlen dringend, vor der Kündigung alle Landing Pages, E-Mail-Listen und Inhalte zu exportieren. Plane ausreichend Vorlaufzeit für den Export ein."
+          }
+        }
+      ]
+    }
+  },
+
+  "rank_math_pro_content_ai": {
+    "_note": "Optionale Einstellungen für Rank Math Pro Content AI / AI SEO",
+    "pillar_content": true,
+    "content_type": "review",
+    "estimated_reading_time_minutes": 12,
+    "word_count_target": 3500,
+    "internal_links_count": 16,
+    "external_links_count": 5,
+    "images_count": 3,
+    "has_table": true,
+    "has_list": true
+  },
+
+  "rank_math_breadcrumbs": {
+    "enabled": true,
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Startseite",
+          "item": "https://kurs-erfahrungen.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Tool-Erfahrungen",
+          "item": "https://kurs-erfahrungen.com/kategorie/tools/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Funnelcockpit Erfahrungen 2025",
+          "item": "https://kurs-erfahrungen.com/product/funnel-cockpit-erfahrungen/"
+        }
+      ]
+    }
+  }
+}
