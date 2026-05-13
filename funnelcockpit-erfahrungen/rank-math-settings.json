@@ -7,9 +7,8 @@
       "1. WordPress-Seite öffnen und den Artikel im Editor bearbeiten",
       "2. Rank Math-Metabox unten im Editor öffnen",
       "3. Die Felder aus dem Abschnitt 'rank_math_meta' eintragen",
-      "4. Rank Math → Schema → Custom Schema → Inhalt aus 'schema_review' einfügen",
-      "5. Zweite Custom Schema für FAQPage aus 'schema_faqpage' einfügen",
-      "6. Speichern und mit Rich Results Test überprüfen: https://search.google.com/test/rich-results"
+      "4. WICHTIG: Kein Custom Schema in Rank Math hinzufügen — Schemas sind bereits im HTML eingebettet",
+      "5. Speichern und mit Rich Results Test überprüfen: https://search.google.com/test/rich-results"
     ]
   },
 
